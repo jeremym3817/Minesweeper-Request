@@ -5,7 +5,7 @@ This was a project I completed for coursework in my Fundumentals of Computer Sci
 
 **To avoid academic integrity violations, this repository has been made private**
 
-If you're interested in seeing my implementation, please send a request
+If you're interested in seeing my implementation, please send a request via email at jeremym3817@gmail.com
 
 # Screenshots
 ![Screenshot 2024-12-24 105615](https://github.com/user-attachments/assets/c593fd2d-01ad-413e-800f-2ef6cd0e9385)
